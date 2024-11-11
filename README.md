@@ -3,7 +3,7 @@ This is a task for manually implement Slowly Changing Dimension concept in Infor
 
 
 ## Mapping In Use: 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/Waleed-Altaher/SCD-in-PowerCenter/blob/main/SCD_T2.png)](https://www.canva.com/design/DAGVP-XLoSw/310taAdue8Pzj5HcUt3qDg/watch?utm_content=DAGVP-XLoSw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Transformations and Step-by-Step 
